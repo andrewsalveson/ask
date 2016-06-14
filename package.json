@@ -1,0 +1,32 @@
+{
+  "name": "ask",
+  "version": "1.0.0",
+  "description": "ask Andrew",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewsalveson/ask.git"
+  },
+  "author": "Andrew Salveson <andrewsalveson@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewsalveson/ask/issues"
+  },
+  "homepage": "https://github.com/andrewsalveson/ask#readme",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "express-mongoose-docs": "latest",
+    "mongoose": "~3.6.13",
+    "morgan": "latest",
+    "nlp_compromise": "^6.1.2",
+    "node-neo4j": "latest",
+    "q": "~1.0",
+    "soundex": "latest"
+  },
+  "devDependencies": {}
+}
