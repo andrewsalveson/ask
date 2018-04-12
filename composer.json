@@ -1,0 +1,13 @@
+{
+    "name": "andrewsalveson/ask",
+    "description": "Ask Andrew",
+    "authors": [
+        {
+            "name": "Andrew Salveson",
+            "email": "andrewsalveson@gmail.com"
+        }
+    ],
+    "require": {
+		"nlp-tools/nlp-tools":"1.0.*@dev"
+	}
+}
